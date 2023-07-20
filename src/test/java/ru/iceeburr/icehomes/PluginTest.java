@@ -1,4 +1,4 @@
-package ru.iceeburr.homes;
+package ru.iceeburr.icehomes;
 
 import static org.junit.Assert.assertTrue;
 
