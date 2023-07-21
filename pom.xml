@@ -23,6 +23,20 @@
 	</repositories>
 
 	<dependencies>
+
+		<dependency>
+			<groupId>net.luckperms</groupId>
+			<artifactId>api</artifactId>
+			<version>5.4</version>
+		</dependency>
+
+
+		<dependency>
+			<groupId>mysql</groupId>
+			<artifactId>mysql-connector-java</artifactId>
+			<version>8.0.33</version>
+		</dependency>
+
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
