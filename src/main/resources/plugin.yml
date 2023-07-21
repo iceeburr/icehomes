@@ -1,6 +1,6 @@
 name: icehomes
 main: ru.iceeburr.icehomes.Main
-version: 0.0.1
+version: 0.0.2
 api-version: 1.15
 authors: ["iceeburr"]
 description: A simple light-weight home plugin designed for Vanilla SMPs

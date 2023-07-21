@@ -31,7 +31,7 @@ public class Main extends JavaPlugin
         getCommand("sethome").setExecutor(new SetHome(this));
         getCommand("home").setExecutor(new HomeCommand(this));
         getServer().getPluginManager().registerEvents(new PlayerListeners(this), this);
-        LOGGER.info("ice!homes <|- Plugin loaded!0.0.1");
+        LOGGER.info("ice!homes <|- Plugin loaded!0.0.2");
     }
 
     @Override
